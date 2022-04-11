@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Olfa ELHARZALLI
+
+- # Hi there, I’m Olfa ELHARZALLI👋 
+
+
+ ![github-large](https://camo.githubusercontent.com/2c665f16072c74d71c949d78964bc1ce6884d7a95ddfa79583791a27643a5e5a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f34392f65662f30323439656665346363386533633230303934666332643230616135383931322e676966)
 
 - 👀 I’m interested in Data science, Machine learning applied to security topics. 
 
@@ -12,7 +16,8 @@
 
 - 🙋🏼‍♀️: I love attending Hackathons, meetups .
 
-- 📫 How to reach me :
+
+- # 📫 How to reach me :
 
      👉: harzaliolfa6@gmail.com
 
