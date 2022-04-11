@@ -6,11 +6,11 @@
 
 - 👩‍💻 : I am passionate self-taught Computer science engineering student from Tunisia.🇹🇳
 
--✨: I am junior Data Scientist | ML & AI enthusiast.
+- ✨: I am junior Data Scientist | ML & AI enthusiast.
 
--🛸: I love exploring new tech stack and building cool stuffs.
+- 🛸: I love exploring new tech stack and building cool stuffs.
 
--🙋🏼‍♀️: I love attending Hackathons, meetups .
+- 🙋🏼‍♀️: I love attending Hackathons, meetups .
 
 - 📫 How to reach me :
 
