@@ -1,28 +1,22 @@
-
-- # Hi there, I’m Olfa ELHARZALLI👋 
-
-
- ![github-large](https://camo.githubusercontent.com/2c665f16072c74d71c949d78964bc1ce6884d7a95ddfa79583791a27643a5e5a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f34392f65662f30323439656665346363386533633230303934666332643230616135383931322e676966)
-
-- 👀 I’m interested in Data science, Machine learning applied to security topics. 
-
-- 🌱 I’m currently a software engineering student ( new technologies and Security)
-
-- 👩‍💻 : I am passionate self-taught Computer science engineering student from Tunisia.🇹🇳
-
-- ✨: I am junior Data Scientist | ML & AI enthusiast.
-
-- 🛸: I love exploring new tech stack and building cool stuffs.
-
-- 🙋🏼‍♀️: I love attending Hackathons, meetups .
+Hi there, I’m Olfa ELHARZALLI 👋
 
 
-- # 📫 How to reach me :
+🎓 I’m a Software Engineer from Tunisia, passionate about creating scalable, high-performance systems and intelligent applications.
+👩‍💻 Currently working at FNZ on backend development, DevOps, and refactoring automation.
+🔍 Interests: Data Science, Machine Learning, and how AI can enhance software security and usability.
+🧠 Strong background in Java, Python, Spring Boot, Docker, ReactJS, and Microservices Architecture.
+🌐 I love building full-stack solutions and streamlining CI/CD workflows.
+🚀 I enjoy exploring new tech stacks, contributing to meaningful projects, and collaborating in agile environments.
+🏆 Achievements:
+    - Winner of BeeCoders Bootcamp competition 🥇
+    - Built several apps including an e-commerce platform & educational platforms
+    - Machine Learning Instructor at NATEG Student Chapter
+🛠️ Current certifications in progress: Oracle Java SE 11, KodeKloud DevOps, EFSET C2 English
 
-     👉: harzaliolfa6@gmail.com
+📫 Let's connect!
+📧 Email: harzaliolfa6@gmail.com / olfa.elharzali@gmail.com
 
+🔗 LinkedIn: linkedin.com/in/olfa-elharzalli
 
-<!---
-harzaliolfa/harzaliolfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Open to relocation and visa sponsorship
+
