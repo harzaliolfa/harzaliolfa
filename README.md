@@ -2,7 +2,7 @@ Hi there, I’m Olfa ELHARZALLI 👋
 
 
 🎓 I’m a Software Engineer from Tunisia, passionate about creating scalable, high-performance systems and intelligent applications.
-👩‍💻 Currently working at FNZ on backend development, DevOps, and refactoring automation.
+👩‍💻 Currently working at FNZ Group on backend development, DevOps, and refactoring automation.
 🔍 Interests: Data Science, Machine Learning, and how AI can enhance software security and usability.
 🧠 Strong background in Java, Python, Spring Boot, Docker, ReactJS, and Microservices Architecture.
 🌐 I love building full-stack solutions and streamlining CI/CD workflows.
